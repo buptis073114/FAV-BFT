@@ -91,4 +91,7 @@ python3 ./test/testrbc.py
 
 ```
 
-![picture2](https://github.com/buptis073114/FAV-BFT/tree/master/picture/test_rbc.png)
+![picture3](https://github.com/buptis073114/FAV-BFT/tree/master/picture/test_rbc.png)
+
+# Contract:
+sushuai@iie.ac.cn
