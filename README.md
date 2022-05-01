@@ -73,7 +73,7 @@ generate libtest-vdf.so
 python3 testvdf.py
 ```
 
-
+![picture](https://github.com/buptis073114/FAV-BFT/tree/master/picture/testvdf.png)
 
 
 11. test vdf_multi
@@ -81,3 +81,4 @@ python3 testvdf.py
 ```bash
 python3 testvdf_multi.py
 ```
+![picture2](https://github.com/buptis073114/FAV-BFT/tree/master/picture/test_vdf_multi.png)
