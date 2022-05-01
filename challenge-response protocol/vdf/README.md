@@ -1,2 +1,2 @@
 # vdf-c_implementation
-C implementation of Pietrzak and Wesołowski VDF
+C implementation of Wesołowski VDF
