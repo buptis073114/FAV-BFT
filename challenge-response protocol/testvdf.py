@@ -6,7 +6,7 @@ import time
 
 if __name__ == "__main__":
     # Load the shared library into ctypes
-    path = "/challenge-response protocol/data/1Gfile"
+    path = "./challenge-response protocol/data/1Gfile"
     evidencefilepath = "evidencefile.txt"
     lib = cdll.LoadLibrary('./libtest-vdf.so')
     T1 = time.time()
