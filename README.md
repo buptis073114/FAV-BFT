@@ -82,3 +82,13 @@ python3 testvdf.py
 python3 testvdf_multi.py
 ```
 ![picture2](https://github.com/buptis073114/FAV-BFT/tree/master/picture/test_vdf_multi.png)
+
+
+12. test rbc
+
+```bash
+python3 ./test/testrbc.py
+
+```
+
+![picture2](https://github.com/buptis073114/FAV-BFT/tree/master/picture/test_rbc.png)
